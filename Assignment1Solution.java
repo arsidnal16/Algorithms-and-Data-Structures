@@ -10,10 +10,6 @@ import java.util.StringTokenizer;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author Rachan Hegde
- */
 public class Assignment1Solution {
 	
 	
